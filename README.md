@@ -45,6 +45,24 @@ A análise foi realizada utilizando Python, com apoio das bibliotecas Pandas, Ma
 ```
 ---
 
+## Gráficos dos Dados
+
+- **Faturamento Total por Loja**: Visualização do desempenho financeiro de cada loja.
+
+![Faturamento Total](https://github.com/user-attachments/assets/d821d970-7f9d-40f5-9010-0463b2381c80)
+
+
+- **Média de Avaliação por Loja**: Comparativo da percepção dos clientes.
+
+![Média de Avaliação](https://github.com/user-attachments/assets/d7ecc0a3-a2bc-40ce-a0ee-bd41fcf9b84d)
+
+
+- **Mapa de Calor das Vendas**: Distribuição geográfica dos pedidos realizados pelas lojas.
+
+![Mapa de Calor](https://github.com/user-attachments/assets/67efadf8-1263-469e-ace3-e4de556c68ea)
+
+---
+
 ## Resultados
 
 Após a análise dos dados, concluiu-se que a Loja 4 é a que apresenta o menor desempenho geral, com destaque negativo nos seguintes critérios:
