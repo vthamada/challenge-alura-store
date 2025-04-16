@@ -1,8 +1,8 @@
-# Análise de Desempenho – Lojas da Alura Store
+# Desafio: Análise de Desempenho – Lojas da Alura Store
 
-Este projeto tem como objetivo analisar os dados de desempenho de quatro lojas fictícias da rede Alura Store e auxiliar o Senhor João na tomada de decisão sobre qual loja deve ser vendida com base em critérios estratégicos.
+O Sr. João é proprietário de uma rede fictícia chamada Alura Store, composta por quatro lojas. Ele pretende iniciar um novo empreendimento, mas para isso precisa vender uma de suas lojas atuais. Para tomar uma decisão estratégica baseada em dados, foi conduzida uma análise completa de desempenho das lojas, utilizando métricas como faturamento, avaliações de clientes, produtos vendidos e custo médio de frete. A análise foi realizada utilizando Python, com apoio das bibliotecas Pandas, Matplotlib e Folium.
 
-A análise foi realizada utilizando Python, com apoio das bibliotecas Pandas, Matplotlib e Folium, explorando dados de vendas, avaliações, fretes e localização geográfica.
+Este projeto foi desenvolvido como parte do desafio prático do curso de Modelagem de Dados com Python da [Alura + Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
 
 ---
 
@@ -77,6 +77,15 @@ Apesar de possuir o frete médio mais barato, isso não resultou em vantagem com
 ## Conclusão
 
 A recomendação final é que o Senhor João considere vender a Loja 4, pois ela representa a menor performance entre as quatro lojas e possui o menor potencial de crescimento comparado às demais.
+
+---
+
+## Aprendizados Técnicos
+
+- Manipular dados com pandas a partir de múltiplos arquivos CSV
+- Construir visualizações com `matplotlib` para tomada de decisão
+- Criar mapas interativos com `folium` para análise espacial
+- Aplicar lógica de negócios com base em dados estruturados
 
 ---
 
